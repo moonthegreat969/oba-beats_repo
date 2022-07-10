@@ -18,7 +18,7 @@ body{
 .obbmobile header{
     height: 250px;
     min-width: 100%;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:local;
@@ -159,7 +159,7 @@ body{
     width: 100%;
     height: 220px;
     margin: 0 auto;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicproducerpurple.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicproducerpurple.jpg?raw=true');
     background-size:cover;
     background-repeat: no-repeat;
     display: flex;
@@ -678,7 +678,7 @@ body{
 .obbsmallmobile header{
     height: 250px;
     min-width: 100%;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:local;
@@ -823,7 +823,7 @@ body{
     width: 100%;
     height: 190px;
     margin: 0 auto;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicproducerpurple.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicproducerpurple.jpg?raw=true');
     background-size:cover;
     background-repeat: no-repeat;
     display: flex;
@@ -1344,7 +1344,7 @@ body{
 .obbtablet header{
     width: 100%;
     height:400px;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:local;
@@ -2094,7 +2094,7 @@ body{
 .obbdesktop header{
     width: 100%;
     height:75vh;
-    background-image: url(https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true);
+    background-image: url('https://github.com/moonthegreat969/oba-beats_repo/blob/gh-pages/musicbg101.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:local;
